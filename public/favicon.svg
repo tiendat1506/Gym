@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="FORGE">
+  <rect width="32" height="32" rx="6" fill="#0B0C0B"/>
+  <rect x="4" y="12" width="7" height="5" fill="#ECEAE4"/>
+  <rect x="8" y="8" width="20" height="9" fill="#ECEAE4"/>
+  <rect x="12" y="17" width="10" height="6" fill="#ECEAE4"/>
+  <rect x="8" y="22" width="16" height="4" fill="#ECEAE4"/>
+  <rect x="14" y="10" width="10" height="4" fill="#8B9A86"/>
+</svg>
